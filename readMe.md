@@ -10,4 +10,4 @@
 
 5. To run the tests on Headlessly, run `npm run test-headless-en`
 
-more details about the project icluding assumptions and propsed improvements can be found in the Assesment_Yusuf_Jinadu file 
+more details about the project including assumptions and propsed improvements can be found in the Assesment_Yusuf_Jinadu file 
